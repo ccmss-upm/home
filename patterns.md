@@ -9,7 +9,7 @@ Para el proyecto XXX se creará el EQUIPO privado: CCMSS-XXX
 ## GitHub
 
 Si se ha de crear un repositorio de código para el proyecto XXX el repositorio se llamará XXX
-  - Los canales (subdivisiones del proyecto) serán submódulos de ese mismo repositorio
+  - Los canales (subdivisiones del proyecto) serán submódulos de ese mismo repositorio (hablar con Andrés Pedraza)
   - Para el canal YYY el repositorio creado habrá de llamarse: XXX-YYY
 
 No se recomienda clonar el repositorio dentro de una carpeta sincronizada con el One Drive ya que el path suele dar problema
