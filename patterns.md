@@ -13,3 +13,7 @@ Si se ha de crear un repositorio de código para el proyecto XXX el repositorio 
   - Para el canal YYY el repositorio creado habrá de llamarse: XXX-YYY
 
 No se recomienda clonar el repositorio dentro de una carpeta sincronizada con el One Drive ya que el path suele dar problema
+
+# Herramientas
+
+Cuando se desarrollen herramientas de software se crearán dos repositorios: uno PRIVADO que contendrá el código y las instrucciones de uso y uno PÚBLICO que contendrá información sobre el proyecto que pueda ser mostrada.
