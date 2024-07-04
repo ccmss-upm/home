@@ -17,3 +17,5 @@ No se recomienda clonar el repositorio dentro de una carpeta sincronizada con el
 # Herramientas
 
 Cuando se desarrollen herramientas de software se crearán dos repositorios: uno PRIVADO que contendrá el código y las instrucciones de uso y uno PÚBLICO que contendrá información sobre el proyecto que pueda ser mostrada.
+
+Si la herramienta es desarrollada de forma individual se agragará como colaboradora a esta cuenta para que se pueda realizar un FORK
