@@ -1,4 +1,4 @@
-<div style="text-align: right"> Sin lenguaje se puede pensar, pero bo se puede conocer. </div>
+Sin lenguaje se puede pensar, pero no se puede conocer.
 
 
 
