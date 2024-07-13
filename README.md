@@ -1,6 +1,5 @@
-<p style="float:right;">
-Sin lenguaje se puede pensar, pero bo se puede conocer.
-</p>
+<div style="text-align: right"> Sin lenguaje se puede pensar, pero bo se puede conocer. </div>
+
 
 
 
