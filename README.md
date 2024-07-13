@@ -1,3 +1,9 @@
+<p style="float:right;">
+Sin lenguaje se puede pensar, pero bo se puede conocer.
+</p>
+
+
+
 # Centre of Composite Materials and Smart Structures
 
 The Center of Composite Materials and Smart Structures (CCMSS) is a research centre located at the Universidad Politécnica de Madrid (UPM) in Spain. Its main focus is on the research and development of Composite Materials and Smart Structures.
