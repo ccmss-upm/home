@@ -18,7 +18,7 @@ Después se ha de crear un repositorio de código para el proyecto, el repositor
   - Para el CANAL, el repositorio creado habrá de llamarse: PROYECTO-CANAL.
   - Para añadir el submódulo al proyecto se utilizará el siguiente comando de git dentro del directorio del propio proyecto:
 
-          git submodule add https://github.com/ccmss-upm/PROYECTO-CNAL
+          git submodule add https://github.com/ccmss-upm/PROYECTO-CANAL
     
   - Después, se añadirá al submódulo local la carpeta sincronizada con MS Teams para conseguir la siguiente esturctura de directorios:
 
