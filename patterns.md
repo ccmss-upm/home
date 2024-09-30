@@ -23,7 +23,7 @@ Después se ha de crear un repositorio de código para el proyecto, el repositor
   - Después, se añadirá al submódulo local la carpeta sincronizada con MS Teams para conseguir la siguiente esturctura de directorios:
 
         PROYECTO (repositorio de github)
-          └── PROYECTO-CANAL (submódulo del repositorio)
+          └── PROYECTO-CANAL (submódulo del repositorio github)
             └── CANAL (carpeta de MS Teams sincronizada)
 
   - Ejemplo de estructura:
